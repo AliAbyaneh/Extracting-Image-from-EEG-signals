@@ -1,0 +1,569 @@
+domestic cat, house cat, Felis domesticus, Felis catus	16	n02121808
+rock python, rock snake, Python sebae	24	n01744401
+magpie	22	n01582220
+Chihuahua	22	n02085620
+flute, transverse flute	18	n03372029
+grey fox, gray fox, Urocyon cinereoargenteus	21	n02120505
+bassinet	23	n02804414
+capuchin, ringtail, Cebus capucinus	10	n02492035
+maillot, tank suit	23	n03710721
+papillon	12	n02086910
+sorrel	20	n02389026
+Brittany spaniel	33	n02101388
+wreck	9	n04606251
+African grey, African gray, Psittacus erithacus	20	n01817953
+Norwegian elkhound, elkhound	22	n02091467
+Greater Swiss Mountain dog	13	n02107574
+patas, hussar monkey, Erythrocebus patas	22	n02486261
+snowmobile	13	n04252077
+Band Aid	23	n02786058
+soccer ball	19	n04254680
+campsite, campground, camping site, camping ground, bivouac, encampment, camping area	20	n08518171
+bow tie, bow-tie, bowtie	21	n02883205
+airfield, landing field, flying field, field	9	n02687992
+Egyptian cat	15	n02124075
+fig	13	n07753113
+skunk, polecat, wood pussy	12	n02445715
+shower cap	12	n04209133
+snake, serpent, ophidian	16	n01726692
+grand piano, grand	20	n03452741
+Border collie	17	n02106166
+crash helmet	20	n03127747
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca	17	n02510455
+starfish, sea star	19	n02317335
+airplane, aeroplane, plane	16	n02691156
+Pomeranian	21	n02112018
+catamaran	23	n02981792
+bowl	16	n02880940
+silky terrier, Sydney silky	10	n02097658
+train, railroad train	10	n04468005
+Arabian camel, dromedary, Camelus dromedarius	18	n02437312
+admiral	8	n02276258
+stethoscope	15	n04317175
+upright, upright piano	10	n04515003
+tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui	20	n01644900
+lifeboat	17	n03662601
+French bulldog	20	n02108915
+ambulance	14	n02701002
+turtle	17	n01662784
+fox	20	n02118333
+ram, tup	23	n02412080
+junco, snowbird	18	n01534433
+Bernese mountain dog	23	n02107683
+kitchen	17	n03619890
+bittern	24	n02011460
+miniskirt, mini	16	n03770439
+sea snake	23	n01751748
+titi, titi monkey	20	n02493509
+otterhound, otter hound	23	n02091635
+hammer	18	n03481172
+crane	31	n02012849
+chow, chow chow	24	n02112137
+vessel, watercraft	26	n04530566
+screen, CRT screen	10	n04152593
+rocking chair, rocker	13	n04099969
+artichoke, globe artichoke	15	n07718747
+Dandie Dinmont, Dandie Dinmont terrier	19	n02096437
+Japanese spaniel	11	n02085782
+studio couch, day bed	13	n04344873
+snowplow, snowplough	14	n04252225
+groom, bridegroom	20	n10148035
+Cardigan, Cardigan Welsh corgi	22	n02113186
+electric fan, blower	10	n03271574
+horizontal bar, high bar	19	n03535780
+prairie chicken, prairie grouse, prairie fowl	10	n01798484
+baboon	20	n02486410
+golf ball	17	n03445777
+Sussex spaniel	24	n02102480
+whale	13	n02062744
+chime, bell, gong	16	n03017168
+liner, ocean liner	19	n03673027
+Ibizan hound, Ibizan Podenco	10	n02091244
+cart	19	n02970849
+chair	18	n03001627
+miniature pinscher	13	n02107312
+pug, pug-dog	16	n02110958
+Eskimo dog, husky	15	n02109961
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus	18	n02066245
+agama	17	n01687978
+backpack, back pack, knapsack, packsack, rucksack, haversack	19	n02769748
+Kerry blue terrier	19	n02093859
+redshank, Tringa totanus	19	n02028035
+Granny Smith	12	n07742313
+bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle	12	n02924116
+hippopotamus, hippo, river horse, Hippopotamus amphibius	21	n02398521
+pencil sharpener	17	n03908714
+home theater, home theatre	21	n03529860
+bald eagle, American eagle, Haliaeetus leucocephalus	15	n01614925
+sombrero	14	n04259630
+pitcher, ewer	19	n03950228
+menagerie, zoo, zoological garden	22	n03745146
+cairn, cairn terrier	23	n02096177
+banjo	10	n02787622
+Tibetan terrier, chrysanthemum dog	12	n02097474
+fox squirrel, eastern fox squirrel, Sciurus niger	21	n02356798
+cello, violoncello	19	n02992211
+spoonbill	18	n02006656
+Indian cobra, Naja naja	26	n01748264
+water ouzel, dipper	19	n01601694
+cornet, horn, trumpet, trump	10	n03110669
+black-and-tan coonhound	19	n02089078
+remote control, remote	20	n04074963
+binder, ring-binder	18	n02840245
+bee eater	24	n01828970
+park bench	16	n03891251
+antelope	16	n02419796
+microphone, mike	20	n03759954
+table	19	n04379243
+monarch, monarch butterfly, milkweed butterfly, Danaus plexippus	14	n02279972
+bullet train, bullet	12	n02917067
+Irish terrier	16	n02093991
+elephant	11	n02503517
+zebra	14	n02391049
+boa constrictor, Constrictor constrictor	19	n01742172
+tennis ball	18	n04409515
+Gila monster, Heloderma suspectum	20	n01692333
+bell pepper	28	n07720875
+horse, Equus caballus	18	n02374451
+collie	20	n02106030
+Australian terrier	19	n02096294
+pencil box, pencil case	8	n03908618
+bustard	22	n02018795
+trolleybus, trolley coach, trackless trolley	19	n04487081
+gazelle	15	n02423022
+spider monkey, Ateles geoffroyi	23	n02493793
+pool table, billiard table, snooker table	19	n03982430
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens	20	n02509815
+waffle iron	12	n04542943
+Italian greyhound	10	n02091032
+billiard room, billiard saloon, billiard parlor, billiard parlour, billiard hall	20	n02839592
+warthog	22	n02397096
+pelican	17	n02051845
+jay	14	n01580077
+court, courtroom	15	n03120778
+robin, American robin, Turdus migratorius	23	n01558993
+Bedlington terrier	19	n02093647
+football helmet	19	n03379051
+bull mastiff	7	n02108422
+otter	13	n02444819
+Weimaraner	14	n02092339
+leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea	10	n01665541
+bullfrog, Rana catesbeiana	15	n01641577
+bench	15	n02828884
+banana	15	n07753592
+Scotch terrier, Scottish terrier, Scottie	20	n02097298
+oboe, hautboy, hautbois	21	n03838899
+hornbill	10	n01829413
+scorpion	24	n01770393
+garage, service department	12	n03416640
+Arctic fox, white fox, Alopex lagopus	16	n02120079
+fireboat	18	n03344393
+unicycle, monocycle	20	n04509417
+convertible	21	n03100240
+standard schnauzer	22	n02097209
+chickadee	18	n01592084
+squirrel	20	n02355227
+yawl	19	n04612504
+red fox, Vulpes vulpes	8	n02119022
+Chesapeake Bay retriever	8	n02099849
+motorcycle, bike	18	n03790512
+guacamole	14	n07583066
+Pembroke, Pembroke Welsh corgi	18	n02113023
+Tibetan mastiff	14	n02108551
+stretcher	13	n04336792
+harp	18	n03495258
+whippet	19	n02091134
+Model T	8	n03777568
+orange	14	n07747607
+crutch	21	n03141823
+rabbit, coney, cony	18	n02324045
+Border terrier	13	n02093754
+wood rabbit, cottontail, cottontail rabbit	20	n02325366
+basenji	14	n02110806
+cowboy hat, ten-gallon hat	14	n03124170
+loggerhead, loggerhead turtle, Caretta caretta	23	n01664065
+whiptail, whiptail lizard	17	n01685808
+hand blower, blow dryer, blow drier, hair dryer, hair drier	16	n03483316
+ringneck snake, ring-necked snake, ring snake	13	n01728920
+common iguana, iguana, Iguana iguana	20	n01677366
+howler monkey, howler	16	n02492660
+limpkin, Aramus pictus	16	n02013706
+Doberman, Doberman pinscher	19	n02107142
+diaper, nappy, napkin	22	n03188531
+armadillo	23	n02454379
+dog, domestic dog, Canis familiaris	18	n02084071
+Airedale, Airedale terrier	18	n02096051
+Gordon setter	13	n02101006
+water snake	21	n01737021
+cocker spaniel, English cocker spaniel, cocker	16	n02102318
+traffic light, traffic signal, stoplight	22	n06874185
+croquet ball	16	n03134739
+Blenheim spaniel	21	n02086646
+airliner	17	n02690373
+spatula	21	n04270147
+bee	12	n02206856
+monitor	18	n03782006
+European gallinule, Porphyrio porphyrio	12	n02017213
+brown bear, bruin, Ursus arctos	15	n02132136
+vulture	14	n01616318
+English springer, English springer spaniel	19	n02102040
+stove	14	n04330267
+cabbage butterfly	12	n02280649
+wine bottle	17	n04591713
+pirate, pirate ship	14	n03947888
+table lamp	15	n04380533
+face powder	18	n03314780
+Saint Bernard, St Bernard	14	n02109525
+recreation room, rec room	15	n04065464
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier	25	n02093428
+harmonica, mouth organ, harp, mouth harp	13	n03494278
+ice lolly, lolly, lollipop, popsicle	10	n07615774
+rugby ball	18	n04118538
+violin, fiddle	17	n04536866
+steel drum	25	n04311174
+miniature schnauzer	23	n02097047
+mountain bike, all-terrain bike, off-roader	16	n03792782
+ballplayer, baseball player	16	n09835506
+trombone	11	n04487394
+American black bear, black bear, Ursus americanus, Euarctos americanus	18	n02133161
+apple	23	n07739125
+washer, automatic washer, washing machine	21	n04554684
+neck brace	15	n03814639
+volleyball	14	n04540053
+sidewinder, horned rattlesnake, Crotalus cerastes	17	n01756291
+basketball	27	n02802426
+sloth bear, Melursus ursinus, Ursus ursinus	26	n02134418
+American coot, marsh hen, mud hen, water hen, Fulica americana	19	n02018207
+flamingo	20	n02007558
+proboscis monkey, Nasalis larvatus	23	n02489166
+golden retriever	16	n02099601
+iPod	19	n03584254
+court	26	n03120491
+Welsh springer spaniel	11	n02102177
+soup bowl	27	n04263257
+notebook, notebook computer	15	n03832673
+Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis	15	n01695060
+barber chair	9	n02791124
+monkey	17	n02484322
+black stork, Ciconia nigra	14	n02002724
+hare	15	n02326432
+goldfish, Carassius auratus	12	n01443537
+affenpinscher, monkey pinscher, monkey dog	17	n02110627
+vacuum, vacuum cleaner	11	n04517823
+cup	15	n07930864
+pretzel	11	n07695742
+pineapple, ananas	21	n07753275
+street	14	n04335209
+lotion	16	n03690938
+chain saw, chainsaw	14	n03000684
+king penguin, Aptenodytes patagonica	13	n02056570
+bicycle, bike, wheel, cycle	21	n02834778
+marmoset	17	n02490219
+bathing cap, swimming cap	14	n02807133
+Samoyed, Samoyede	16	n02111889
+giant schnauzer	22	n02097130
+French horn, horn	17	n03394916
+hartebeest	24	n02422106
+terrapin	15	n01667778
+Lhasa, Lhasa apso	17	n02098413
+Labrador retriever	24	n02099712
+Staffordshire bullterrier, Staffordshire bull terrier	23	n02093256
+aircraft carrier, carrier, flattop, attack aircraft carrier	6	n02687172
+toucan	15	n01843383
+polo	16	n00477639
+oystercatcher, oyster catcher	16	n02037110
+ox	17	n02403003
+submarine, pigboat, sub, U-boat	13	n04347754
+lycaenid, lycaenid butterfly	20	n02281787
+Sealyham terrier, Sealyham	14	n02095889
+isopod	25	n01990800
+printer	21	n04004767
+business district, downtown	17	n08539072
+swimming trunks, bathing trunks	17	n04371430
+rule, ruler	13	n04118776
+Pekinese, Pekingese, Peke	14	n02086079
+pizza, pizza pie	18	n07873807
+bus stop	21	n08517676
+Irish setter, red setter	13	n02100877
+soft-coated wheaten terrier	17	n02098105
+Siamese cat, Siamese	19	n02123597
+curly-coated retriever	11	n02099429
+power drill	17	n03995372
+racket, racquet	19	n04039381
+hatchet	18	n03498962
+Great Pyrenees	8	n02111500
+great grey owl, great gray owl, Strix nebulosa	17	n01622779
+ping-pong ball	17	n03942813
+American egret, great white heron, Egretta albus	16	n02009912
+burrito	22	n07880968
+limousine, limo	17	n03670208
+house finch, linnet, Carpodacus mexicanus	16	n01532829
+accordion, piano accordion, squeeze box	12	n02672831
+container ship, containership, container vessel	21	n03095699
+ruffed grouse, partridge, Bonasa umbellus	10	n01797886
+horned viper, cerastes, sand viper, horned asp, Cerastes cornutus	15	n01753488
+indigo bunting, indigo finch, indigo bird, Passerina cyanea	24	n01537544
+white stork, Ciconia ciconia	12	n02002556
+night snake, Hypsiglena torquata	21	n01740131
+bagel, beigel	18	n07693725
+Scottish deerhound, deerhound	17	n02092002
+hen	11	n01514859
+Shetland sheepdog, Shetland sheep dog, Shetland	13	n02105855
+ruddy turnstone, Arenaria interpres	18	n02025239
+beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	18	n02814533
+jinrikisha, ricksha, rickshaw	19	n03599486
+oxcart	18	n03868242
+acoustic guitar	18	n02676566
+punching bag, punch bag, punching ball, punchball	11	n04023962
+kite	20	n01608432
+street	15	n04334599
+drake	18	n01847000
+mushroom	13	n07734744
+baby bed, baby's bed	25	n02766320
+schooner	19	n04147183
+throne	13	n04429376
+alligator lizard	27	n01689811
+toaster	22	n04442312
+cheeseburger	13	n07697313
+dalmatian, coach dog, carriage dog	27	n02110341
+jellyfish	25	n01910747
+centipede	25	n01784675
+West Highland white terrier	26	n02098286
+lipstick, lip rouge	21	n03676483
+water bottle	15	n04557648
+EntleBucher	18	n02108000
+saltshaker, salt shaker	13	n04131690
+Shih-Tzu	11	n02086240
+helmet	18	n03513137
+bedroom, sleeping room, sleeping accommodation, chamber, bedchamber	19	n02821627
+porcupine, hedgehog	20	n02346627
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle	17	n02165456
+beaker	22	n02815834
+boxer	20	n02108089
+drum, membranophone, tympan	20	n03249569
+sax, saxophone	16	n04141076
+thunder snake, worm snake, Carphophis amoenus	19	n01728572
+plastic bag	22	n03958227
+plate rack	19	n03961711
+komondor	23	n02105505
+cab, hack, taxi, taxicab	20	n02930766
+tape player	19	n04392985
+Persian cat	16	n02123394
+king snake, kingsnake	16	n01734418
+sheep	30	n02411705
+ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus	21	n02134084
+quail	17	n01806567
+jeep, landrover	19	n03594945
+ax, axe	16	n02764044
+squirrel monkey, Saimiri sciureus	17	n02494079
+macaw	15	n01818515
+electric ray, crampfish, numbfish, torpedo	14	n01496331
+car, auto, automobile, machine, motorcar	19	n02958343
+Mexican hairless	16	n02113978
+Walker hound, Walker foxhound	21	n02089867
+lobster	8	n01982650
+folding chair	18	n03376595
+malamute, malemute, Alaskan malamute	22	n02110063
+electric guitar	19	n03272010
+green snake, grass snake	13	n01729977
+motor scooter, scooter	18	n03791053
+langur	18	n02488291
+Great Dane	20	n02109047
+cradle	24	n03125729
+African chameleon, Chamaeleo chamaeleon	19	n01694178
+file, file cabinet, filing cabinet	18	n03337140
+ladle	20	n03633091
+laptop, laptop computer	19	n03642806
+vine snake	14	n01739381
+Indian elephant, Elephas maximus	15	n02504013
+box turtle, box tortoise	19	n01669191
+sports car, sport car	17	n04285008
+tick	34	n01776313
+maraca	22	n03720891
+sulphur butterfly, sulfur butterfly	17	n02281406
+balance beam, beam	21	n02777292
+Old English sheepdog, bobtail	24	n02105641
+display, video display	23	n03211117
+snail	21	n01944390
+coucal	19	n01824575
+Yorkshire terrier	24	n02094433
+purse	18	n04026417
+goldfinch, Carduelis carduelis	16	n01531178
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk	12	n02268443
+butterfly	17	n02274259
+tiger, Panthera tigris	14	n02129604
+mug	21	n03797390
+flat-coated retriever	18	n02099267
+espresso maker	15	n03297495
+ant, emmet, pismire	15	n02219486
+sofa, couch, lounge	21	n04256520
+hog, pig, grunter, squealer, Sus scrofa	12	n02395406
+cock	18	n01514668
+schipperke	19	n02104365
+hamster	23	n02342885
+bookcase	15	n02870880
+black swan, Cygnus atratus	14	n01860187
+Rhodesian ridgeback	19	n02087394
+black grouse	14	n01795545
+hamburger, beefburger, burger	16	n07697100
+air terminal, airport terminal	19	n02693246
+English setter	10	n02100735
+Brabancon griffon	24	n02112706
+goose	26	n01855672
+Siberian husky	23	n02110185
+English foxhound	7	n02089973
+frilled lizard, Chlamydosaurus kingi	19	n01688243
+bluetick	23	n02088632
+screwdriver	22	n04154565
+sea lion	18	n02077923
+dishwasher, dish washer, dishwashing machine	15	n03207941
+gondola	21	n03447447
+moped	27	n03785016
+Norfolk terrier	20	n02094114
+ray	25	n01495701
+rubber eraser, rubber, pencil eraser	14	n04116512
+microwave, microwave oven	18	n03761084
+bear	15	n02131653
+computer keyboard, keypad	19	n03085013
+concert	18	n06892775
+banded gecko	18	n01675722
+strainer	13	n04332243
+minibus	16	n03769881
+kuvasz	16	n02104029
+diamondback, diamondback rattlesnake, Crotalus adamanteus	29	n01755581
+golfcart, golf cart	10	n03445924
+bulbul	9	n01560419
+lizard	32	n01674464
+German shepherd, German shepherd dog, German police dog, alsatian	18	n02106662
+piano, pianoforte, forte-piano	14	n03928116
+cucumber, cuke	21	n07718472
+beagle	22	n02088364
+miniature poodle	14	n02113712
+frying pan, frypan, skillet	22	n03400231
+bird	17	n01503061
+borzoi, Russian wolfhound	18	n02090622
+Windsor tie	22	n04591157
+impala, Aepyceros melampus	18	n02422699
+Appenzeller	16	n02107908
+guenon, guenon monkey	18	n02484975
+pomegranate	13	n07768694
+restaurant, eating house, eating place, eatery	17	n04081281
+lemon	17	n07749582
+crib, cot	17	n03131574
+garter snake, grass snake	16	n01735189
+classroom, schoolroom	12	n03038685
+standard poodle	20	n02113799
+hognose snake, puff adder, sand viper	13	n01729322
+Leonberg	23	n02111129
+mouse, computer mouse	15	n03793489
+trimaran	12	n04483307
+red-breasted merganser, Mergus serrator	19	n01855032
+coffee mug	21	n03063599
+Lakeland terrier	16	n02095570
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis	20	n02415577
+kelpie	19	n02105412
+stingray	21	n01498041
+jacamar	20	n01843065
+can opener, tin opener	20	n02951585
+soap dispenser	29	n04254120
+hair spray	15	n03476991
+toy terrier	20	n02087046
+refrigerator, icebox	18	n04070727
+mud turtle	17	n01667114
+bloodhound, sleuthhound	20	n02088466
+cream, ointment, emollient	17	n03128519
+strawberry	20	n07745940
+perfume, essence	16	n03916031
+syringe	10	n04376876
+nail	20	n03804744
+ostrich, Struthio camelus	18	n01518878
+office, business office	21	n03841666
+sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita	14	n01819313
+Newfoundland, Newfoundland dog	14	n02111277
+Irish wolfhound	18	n02090721
+cocktail shaker	15	n03062245
+American chameleon, anole, Anolis carolinensis	19	n01682714
+Norwich terrier	23	n02094258
+vizsla, Hungarian pointer	19	n02100583
+cassette player	20	n02979186
+red-backed sandpiper, dunlin, Erolia alpina	17	n02027492
+brambling, Fringilla montifringilla	21	n01530575
+American lobster, Northern lobster, Maine lobster, Homarus americanus	23	n01983481
+guitar	15	n03467517
+partridge	14	n01807496
+Afghan hound, Afghan	17	n02088094
+albatross, mollymawk	20	n02058221
+kit fox, Vulpes macrotis	19	n02119789
+sunscreen, sunblock, sun blocker	12	n04357314
+dining table, board	18	n03201208
+peacock	11	n01806143
+person, individual, someone, somebody, mortal, soul	17	n00007846
+dumbbell	13	n03255030
+wild boar, boar, Sus scrofa	21	n02396427
+horse cart, horse-cart	20	n03538406
+green mamba	19	n01749939
+malinois	11	n02105162
+redbone	16	n02090379
+little blue heron, Egretta caerulea	24	n02009229
+macaque	18	n02487347
+sunglasses, dark glasses, shades	22	n04356056
+school bus	17	n04146614
+wedding, wedding party	19	n08256735
+brassiere, bra, bandeau	11	n02892767
+digital clock	11	n03196217
+puck, hockey puck	20	n04019541
+green lizard, Lacerta viridis	7	n01693334
+desk	16	n03179701
+swine	17	n02395003
+Bouvier des Flandres, Bouviers des Flandres	21	n02106382
+groenendael	22	n02105056
+speedboat	18	n04273569
+airport, airdrome, aerodrome, drome	11	n02692232
+ptarmigan	17	n01796340
+bow	28	n02879718
+cattle, cows, kine, oxen, Bos taurus	14	n02402425
+German short-haired pointer	15	n02100236
+clumber, clumber spaniel	10	n02101556
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus	13	n01882714
+tree frog, tree-frog	22	n01644373
+Boston bull, Boston terrier	10	n02096585
+milk can	25	n03764736
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca	10	n02071294
+wire-haired fox terrier	13	n02095314
+colobus, colobus monkey	19	n02488702
+mixing bowl	14	n03775546
+spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish	21	n01984695
+dowitcher	24	n02033041
+frog, toad, toad frog, anuran, batrachian, salientian	22	n01639765
+canoe	21	n02951358
+camel	19	n02437136
+intersection, crossroad, crossway, crossing, carrefour	10	n03581125
+baseball	18	n02799071
+scuba diver	26	n10565667
+African elephant, Loxodonta africana	21	n02504458
+ringlet, ringlet butterfly	16	n02277742
+tabby, tabby cat	18	n02123045
+seal	21	n02076196
+Maltese dog, Maltese terrier, Maltese	21	n02085936
+briard	21	n02105251
+bicycle-built-for-two, tandem bicycle, tandem	16	n02835271
+ski	14	n04228054
+Rottweiler	19	n02106550
+check-in	11	n00141669
+Irish water spaniel	22	n02102973
+toy poodle	25	n02113624
+minivan	24	n03770679
+hotdog, hot dog, red hot	17	n07697537
+hummingbird	24	n01833805
+basset, basset hound	22	n02088238
+Saluki, gazelle hound	24	n02091831
+lorikeet	12	n01820546
+racer, race car, racing car	14	n04037443
+lamp	12	n03636649
+keeshond	13	n02112350
+corkscrew, bottle screw	17	n03109150
+Angora, Angora rabbit	17	n02328150
+lion, king of beasts, Panthera leo	28	n02129165
+coffee maker	19	n03063338
+pot, flowerpot	16	n03991062
+head cabbage	25	n07714571
