@@ -57,7 +57,7 @@ model.add(Activation('relu'))
 model.add(Dropout(0.5))
 model.add(Dense(10))
 model.add(Activation('softmax'))
-
+###
 model.compile(loss='categorical_crossentropy', optimizer='adadelta')
 
 model.fit_generator(myGenerator(), samples_per_epoch = 60000, nb_epoch = 2, verbose=2, show_accuracy=True, callbacks=[], validation_data=None, class_weight=None, nb_worker=1)
