@@ -32,7 +32,7 @@ Each channel is fed into a specific LSTM network, then the output of all network
 
 
 ![alt text](PerChanLSTM_2.jpg) <br />
-## Sparse Networks with Decision Forest
+## Sparse Networks with Decision Forest (SNDF)
 This section will be completed ASAP.
 
 ## Results
@@ -41,7 +41,8 @@ This section will be completed ASAP.
 | Common LSTM  | 35.1%  | ------------- |
 | Stacked LSTM | 39.7%  | ------------- |
 | Per Channel LSTM | 39.6% %  | ------------- |
-| CNN | 48%  | ------------- |
+| 1D CNN | 48%  | ------------- |
+| SNDF | ---  | ------------- |
 
 
 ## Note
