@@ -14,7 +14,7 @@ Data is selected from 14 different location of the brain, the graph of which is 
 [http://www.mindbigdata.com/] <br />
 
 ## Common LSTM
-
+All 14 channels are fed into the LSTM network, which means that the input shape is 14 * 256. The size of the output of the LSTM layer is 14*1024. Then, it is flatend to 14336 neurons, which are connected to a MLP with 10 layers at output.
 ![alt text](CommonLSTM.jpg) <br />
 
 
