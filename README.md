@@ -33,7 +33,11 @@ Each channel is fed into a specific LSTM network, then the output of all network
 
 ![alt text](PerChanLSTM_2.jpg) <br />
 ## Sparse Networks with Decision Forest (SNDF)
-This section will be completed ASAP.
+This section will be completed ASAP. <br />
+
+General Structure of Sparse networks is depicted below:
+
+![alt text](Sparse_CNN.png) <br />
 
 ## Results
 | Algorithm  | Validaion Accuracy | Network Size |
