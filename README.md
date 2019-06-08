@@ -1,7 +1,10 @@
 # Extracting-Image-from-EEG-signals
 ## Abstract
 Consider that we were able to read the human mind, vision, and hearing, and transfer them into a machine. Without any shadow of doubt, this tempting idea can pave the way for quite a few advancements in the technology. Take, for instance; we were able to use human sight in a machine. By doing so, we could use human vision potentials in many machine vision applications. <br />
-In general, the goal of this project is reconstructing an digit, seen by a human, from the EEG signals which are captured when the very human was looking at the digit. In particular, I am using MindBigData the "MNIST" of Brain Digits dataset, about which I have explained in the follwoing sections.
+In general, the goal of this project is reconstructing an digit, seen by a human, from the EEG signals which are captured when the very human was looking at the digit. In particular, I am using MindBigData the "MNIST" of Brain Digits dataset, about which I have explained in the follwoing sections. <br />
+To achieve that aim, I have used several deep learning approaches. In the first place, I tried to use transfer learning. Therefore, I read several papers, and I looked at several projects with a similar objective. In the first place, I balanced the dataset, in that it was heterogeneous. In the second place, I used an auto-encoder network to reduce the dimension of the data( then I decided not to use that in the final model!). So far, I have implemented several deep CNNs and LSTMs with different architectures. Note that all of the models are implemented with Teolnsorflow and Keras. Moreover, I used Talos, which is a hyper-parameter optimization tool, to achieve the best model.<br />
+Currently, I am working on a decision forest which decides between more than 50 sparse CNNs outputs, all of which are trained with the mentioned dataset, and several other features such as signals mean and standarad deviation.
+
 ## Mind big data
 [http://www.mindbigdata.com/] <br />
 
