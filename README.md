@@ -13,6 +13,11 @@ Data is selected from 14 different location of the brain, the graph of which is 
 ![alt text](epoc-20-10.jpg) <br />
 [http://www.mindbigdata.com/] <br />
 
+## Common LSTM
+
+![alt text](CommonLSTM.jpg) <br />
+
+
 ## Stacked LSTM
 
 
