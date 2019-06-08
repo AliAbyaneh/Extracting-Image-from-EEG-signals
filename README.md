@@ -26,7 +26,7 @@ All 14 channels are fed into the LSTM networks, which are placed sequentially. T
 
 
 ## Per Channel LSTM
-
+Each channel is fed into a specific LSTM network, then the output of all networks are concatinated. Then, the output flatend to 3584 neurons, which are connected to a MLP with 10 layers at output.The network implementaion is available in *PerChanLSTM.ipynb*
 
 ![alt text](PerChanLSTM.jpg) <br />
 
