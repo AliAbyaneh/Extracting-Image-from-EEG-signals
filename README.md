@@ -13,6 +13,17 @@ Data is selected from 14 different location of the brain, the graph of which is 
 ![alt text](epoc-20-10.jpg) <br />
 [http://www.mindbigdata.com/] <br />
 
+## Stacked LSTM
+
+
+![alt text](StackedLSTM.jpg) <br />
+
+
+## Per Channel LSTM
+
+
+![alt text](PerChanLSTM.jpg) <br />
+
 ## Refrences
 - Deep Learning Human Mind for Automated Visual Classification [https://arxiv.org/pdf/1609.00344.pdf] <br />
 - Personalized Image Classification from EEG Signals Using Deep Learning [https://upcommons.upc.edu/bitstream/handle/2117/109756/Personalized-Image-Classification-of-EEG-Signals-using-Deep-Learning.pdf]
