@@ -6,13 +6,12 @@ To achieve that aim, I have used several deep learning approaches. In the first 
 Currently, I am working on a decision forest which decides between more than 50 sparse CNNs outputs, all of which are trained with the mentioned dataset, and several other features such as signals mean and standarad deviation.
 
 ## Mind big data
-[http://www.mindbigdata.com/] <br />
 
 This dataset, provided by David Vivancos, is composed of records of 2 seconds of EEG signals using several non-medical grade headsets. During the experiment, the subject was presented digits (0 - 9) on a computer, and tried to focus on the digit for about two seconds. The goal is classifying EEG signals into 10 categories, each of which represent a number between 0 and 9 which is obseverd by the subject. <br />
 Data is selected from 14 different location of the brain, the graph of which is shown below.
 
-![alt text](EPOC-20-10.jpg)
-
+![alt text](epoc-20-10.jpg) <br />
+[http://www.mindbigdata.com/] <br />
 
 ## Refrences
 - Deep Learning Human Mind for Automated Visual Classification [https://arxiv.org/pdf/1609.00344.pdf] <br />
