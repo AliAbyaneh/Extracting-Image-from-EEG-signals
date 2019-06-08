@@ -32,6 +32,10 @@ Data is selected from 14 different location of the brain, the graph of which is 
 
 ![alt text](PerChanLSTM_2.jpg) <br />
 
+## Note
+Feel free to use these codes and documents if it can be helpful for you!
+<br />
+Author : Ali Abyaneh
 ## Refrences
 - Deep Learning Human Mind for Automated Visual Classification [https://arxiv.org/pdf/1609.00344.pdf] <br />
 - Personalized Image Classification from EEG Signals Using Deep Learning [https://upcommons.upc.edu/bitstream/handle/2117/109756/Personalized-Image-Classification-of-EEG-Signals-using-Deep-Learning.pdf]
