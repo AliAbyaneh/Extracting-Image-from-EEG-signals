@@ -1,6 +1,7 @@
 # Extracting-Image-from-EEG-signals
-
-
+## Abstract
+Consider that we were able to read the human mind, vision, and hearing, and transfer them into a machine. Without any shadow of doubt, this tempting idea can pave the way for quite a few advancements in the technology. Take, for instance; we were able to use human sight in a machine. By doing so, we could use human vision potentials in many machine vision applications. <br />
+In general, the goal of this project is reconstructing an image, seen by a human, from the EEG signals which are captured when the very human was looking at the image. In particular, I am using MindBigData IMAGENET of the Brain dataset, in which a specific subject looks at pictures, which are randomly selected from ILSVRC2013 dataset, and electroencephalogram signals are recorded from five different brain locations.
 ## Mind big data
 [http://www.mindbigdata.com/] <br />
 
