@@ -42,10 +42,10 @@ General Structure of Sparse networks is depicted below:
 ## Results
 | Algorithm  | Validaion Accuracy | Network Size |
 | ------------- | ------------- | ------------- |
-| Common LSTM  | 35.1%  | ------------- |
-| Stacked LSTM | 39.7%  | ------------- |
-| Per Channel LSTM | 39.6% %  | ------------- |
-| 1D CNN | 48%  | ------------- |
+| Common LSTM  | ???  | ------------- |
+| Stacked LSTM | ???  | ------------- |
+| Per Channel LSTM | ???  | ------------- |
+| 1D CNN | ??? | ------------- |
 | SNDF | ---  | ------------- |
 
 
